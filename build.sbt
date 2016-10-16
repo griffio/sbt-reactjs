@@ -10,6 +10,7 @@ scalacOptions ++= Seq("-deprecation", "-feature")
 
 libraryDependencies ++= Seq(
   "org.webjars" % "react" % "0.15.3",
+  "org.webjars" % "react-dom" % "0.15.3",
   "org.webjars.npm" % "react-tools" % "0.13.3",
   "org.webjars" % "jstransform" % "10.1.0",
   "org.webjars" % "esprima" % "13001.1.0-dev-harmony-fb",
